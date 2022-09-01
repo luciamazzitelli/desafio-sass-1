@@ -1,0 +1,17 @@
+.main-index {
+    background-color: darkslategrey;
+    text-align: center;
+    min-height: 50vh;
+    .card {
+        max-width: 350px;
+        margin: 0 auto;
+        h2 {
+            font-family: sans-serif;
+            &:hover{
+                color: grey;
+            }
+        }
+
+
+    }
+}

@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.main-index {
+  background-color: darkslategrey;
+  text-align: center;
+  min-height: 50vh; }
+  .main-index .card {
+    max-width: 350px;
+    margin: 0 auto; }
+    .main-index .card h2 {
+      font-family: sans-serif; }
+      .main-index .card h2:hover {
+        color: grey; }
+
+header {
+  background-color: black;
+  justify-content: center; }
+  header h1 {
+    text-align: center;
+    color: white; }
+  header div {
+    justify-content: center; }
+
+body {
+  background: black; }
